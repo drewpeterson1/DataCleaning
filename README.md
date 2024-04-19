@@ -8,6 +8,7 @@ Data Cleaning
 - Duplicates
 - Data Types
 - Outliers
+- Imputation
 - Libraries: Pandas, Numpy
 
 Advanced Methods
